@@ -3,7 +3,9 @@ devops skeleton
 
 #How to build:
 
-TBD
+'''
+CHECK CLOUD DOCUMENTATION
+'''
 
 Run the following command
 
