@@ -6,6 +6,7 @@ devops skeleton
 '''
 
 CHECK CLOUD DOCUMENTATION
+Use m_msg
 
 '''
 
