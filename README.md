@@ -7,7 +7,7 @@ devops skeleton
 
 CHECK CLOUD DOCUMENTATION
 
-Use m_msg
+Use m_msg for integration
 
 '''
 
