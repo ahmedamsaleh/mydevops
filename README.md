@@ -8,7 +8,6 @@ Run the following command
 '''
 
 mvn clean install
-npm install
 
 '''
 
