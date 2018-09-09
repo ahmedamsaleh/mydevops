@@ -11,4 +11,4 @@ mvn clean install
 
 '''
 
-Test Cloud Connection events
+Test Cloud Connection events, receive every events
