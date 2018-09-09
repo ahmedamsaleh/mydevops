@@ -4,7 +4,9 @@ devops skeleton
 #How to build:
 
 '''
+
 CHECK CLOUD DOCUMENTATION
+
 '''
 
 Run the following command
