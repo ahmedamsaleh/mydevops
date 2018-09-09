@@ -9,6 +9,8 @@ CHECK CLOUD DOCUMENTATION
 
 Use m_msg for integration
 
+Use email integration
+
 '''
 
 Run the following command
